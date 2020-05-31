@@ -1,6 +1,6 @@
-# Descubra as melhores notas de matemática do ENEM 2016
+# Melhores notas de matemática do ENEM 2016
 
-Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. Para isso, usará Python, Pandas, Sklearn e Regression.
+Para esse projeto foram coletadas as notas de alunos participantes do ENEM em 2016 como o objetivo de criar um modelo para prever a nota da prova de matemática. Para isso, foram utilizadas as bibliotecas Python, Pandas, Sklearn e Regression. Além disso., criamos um baseline como ponto de partida da resolução do problema que foi comparado com 3 modelos tree-based para a validação do melhor modelo a empregar.
 
 
 ## Tópicos
